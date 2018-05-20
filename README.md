@@ -83,6 +83,8 @@ Throughout this project there was only one challenge the proved to be tricky to 
 -[Link1]()
 -[Link1]()
 
+---
+
 ### 4-Issues :question::exclamation:
 
   Currently there are no known issues that need to be resolved. If you find any issues please submit it using the issues tab, or contact [Ben Caler](https://github.com/benwcaler/).
@@ -98,6 +100,8 @@ Throughout this project there was only one challenge the proved to be tricky to 
 3.	idea3
 4.	idea4
 5.	idea5
+
+---
 
 ### 6-Contributors :raised_hands:
 
