@@ -8,12 +8,12 @@
 
   
 
-### [1-Description](https://github.com/benwcaler/RepoName#Description)
-### [2-Technologies](https://github.com/benwcaler/RepoName#Technologies)
-### [3-Challenges](https://github.com/benwcaler/RepoName#Challenges)
-### [4-Issues](https://github.com/benwcaler/RepoName#Issues)
-### [5-Desired Features](https://github.com/benwcaler/RepoName#Desired-Features)
-### [6-Contributors](https://github.com/benwcaler/RepoName#Contributors)
+### [Description](#1-description-page_facing_up)
+### [Technologies](#2-technologies-computer)
+### [Challenges](#3-challenges-screamboom)
+### [Issues](#4-issues-questionexclamation)
+### [Desired Features](#5-desired-features-star2)
+### [Contributors](#6-contributors-raised_hands)
 
  ---
 
@@ -85,13 +85,13 @@ Throughout this project there was only one challenge the proved to be tricky to 
 
 ### 4-Issues :question::exclamation:
 
-  Currently there are no known issues that need to be resolved. If you find an issue please submit it using the issues tab, or contact [Nick Brown](https://github.com/nick-d-brown/).
+  Currently there are no known issues that need to be resolved. If you find any issues please submit it using the issues tab, or contact [Ben Caler](https://github.com/benwcaler/).
 
 ---
 
 ### 5-Desired Features :star2:
 
-  Below is a list of possible features that we would like to add to the project. If You would like to propose a feature to add please feel free to create a PR to add it to the list. **We love it when others can help propose ideas!**
+  Below is a list of possible features that we would like to add to the project. If You would like to propose a feature to add please feel free to create a PR to add it to the list. **I love it when others can help propose ideas!**
 
 1.	idea1
 2.	idea2
@@ -101,9 +101,9 @@ Throughout this project there was only one challenge the proved to be tricky to 
 
 ### 6-Contributors :raised_hands:
 
-- [Nick Brown](https://github.com/benwcaler/)
+- [Ben Caler](https://github.com/benwcaler/)
 
-> **PS:** If you would like to contribute please contact Nick Brown on GitHub or at n.brown.professional@gmail.com. We welcome bot first time contributors and experienced developers with critical feedback. 
+> **PS:** If you would like to contribute please contact Ben Caler on GitHub. 
 
 
 ## Thanks for visiting!
